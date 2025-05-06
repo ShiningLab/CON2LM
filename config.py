@@ -14,10 +14,11 @@ def init_args():
     parser.add_argument('--seed', type=int, default=0, help='random seed')
     # model
     # language models
-    # Meta-Llama-3-8B, Meta-Llama-3.1-8B
-    # Meta-Llama-3-8B-Instruct
-    # Meta-Llama-2-7B
-    parser.add_argument('--lm', type=str, default='Meta-Llama-3.1-8B')
+    # Llama-4-Scout-17B-16E
+    # Llama3.2-1B, Llama3.2-3B
+    # meta-llama/Llama-3.1-8B, meta-llama/Llama-3.2-3B
+    # Qwen/Qwen3-4B
+    parser.add_argument('--llm', type=str, default='meta-llama/Llama-3.2-3B')
     # save as argparse space
     return parser.parse_known_args()[0]
 
@@ -37,3 +38,5 @@ class Config(object):
         self.RESOURCE_PATH = os.path.join(self.CURR_PATH, 'res')
         self.DATA_PATH = os.path.join(self.RESOURCE_PATH, 'data')
         self.RESULTS_PATH = os.path.join(self.RESOURCE_PATH, 'results')
+        self.LLMS_PATH = os.path.join(self.RESOURCE_PATH, 'llms')
+        self.LLM_PATH = os.path.join(self.LLMS_PATH, self.llm)

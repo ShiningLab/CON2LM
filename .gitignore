@@ -1,7 +1,8 @@
 # Self
 *.jsonl
 *.tsv
-.DS_Store
+.DS_Store/
+llms/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
