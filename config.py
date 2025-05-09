@@ -19,6 +19,9 @@ def init_args():
     # meta-llama/Llama-3.1-8B, meta-llama/Llama-3.2-3B
     # Qwen/Qwen3-4B
     parser.add_argument('--llm', type=str, default='meta-llama/Llama-3.2-3B')
+    # beam search for word probability
+    # the max beam depth 10 is based on the PWN
+    parser.add_argument('--beam_depth', type=int, default=10, help='beam search depth')
     # save as argparse space
     return parser.parse_known_args()[0]
 
