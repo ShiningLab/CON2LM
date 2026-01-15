@@ -1,4 +1,5 @@
 # Self
+CLAUDE.md
 *.jsonl
 *.tsv
 *.DS_Store
