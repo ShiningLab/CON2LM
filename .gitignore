@@ -3,6 +3,7 @@ CLAUDE.md
 *.jsonl
 *.tsv
 *.DS_Store
+.DS_Store
 llms/
 reference/
 
