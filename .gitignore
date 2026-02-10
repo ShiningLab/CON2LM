@@ -10,8 +10,6 @@ res/llms/
 
 # Jupyter Notebook outputs and working notebooks
 *.ipynb_checkpoints/
-main.ipynb
-test.ipynb
 
 # macOS
 .DS_Store
