@@ -1,0 +1,121 @@
+premise	hypothesis	label
+Daniel is in the bathroom.	Daniel is in the bedroom.	True
+Daniel is in the garden.	Daniel is in the driveway.	True
+Daniel is in the bedroom.	Daniel is in the driveway.	True
+Sandra is in the garden.	Sandra is in the bedroom.	True
+John is in the bathroom.	John is in the garden.	True
+Mary is in the playground.	Mary is in the garden.	True
+Sandra is in the kitchen.	Sandra is in the garden.	True
+John is in the driveway.	John is in the bathroom.	True
+Daniel is in the kitchen.	Daniel is in the garden.	True
+Mary is in the driveway.	Mary is in the bedroom.	True
+Daniel is in the garden.	Daniel is in the bedroom.	True
+Sandra is in the driveway.	Sandra is in the playground.	True
+John is in the playground.	John is in the driveway.	True
+Daniel is in the kitchen.	Daniel is in the bathroom.	True
+Mary is in the playground.	Mary is in the bedroom.	True
+John is in the playground.	John is in the bedroom.	True
+Sandra is in the bathroom.	Sandra is in the garden.	True
+John is in the playground.	John is in the bathroom.	True
+John is in the bathroom.	John is in the playground.	True
+Sandra is in the bedroom.	Sandra is in the playground.	True
+Sandra is in the bathroom.	Sandra is in the playground.	True
+Mary is in the bedroom.	Mary is in the garden.	True
+John is in the garden.	John is in the playground.	True
+Mary is in the kitchen.	Mary is in the garden.	True
+Sandra is in the playground.	Sandra is in the driveway.	True
+Sandra is in the driveway.	Sandra is in the kitchen.	True
+John is in the driveway.	John is in the garden.	True
+John is in the bedroom.	John is in the playground.	True
+Sandra is in the playground.	Sandra is in the garden.	True
+Daniel is in the playground.	Daniel is in the bathroom.	True
+John is in the driveway.	John is in the bedroom.	True
+Daniel is in the garden.	Daniel is in the kitchen.	True
+Mary is in the kitchen.	Mary is in the bedroom.	True
+Mary is in the bathroom.	Mary is in the driveway.	True
+John is in the kitchen.	John is in the bathroom.	True
+John is in the bedroom.	John is in the bathroom.	True
+John is in the garden.	John is in the kitchen.	True
+Mary is in the kitchen.	Mary is in the bathroom.	True
+Mary is in the driveway.	Mary is in the playground.	True
+Mary is in the bathroom.	Mary is in the bedroom.	True
+Sandra is in the bedroom.	Sandra is in the kitchen.	True
+Mary is in the bathroom.	Mary is in the garden.	True
+Daniel is in the playground.	Daniel is in the bedroom.	True
+John is in the driveway.	John is in the kitchen.	True
+Daniel is in the driveway.	Daniel is in the playground.	True
+Sandra is in the bathroom.	Sandra is in the kitchen.	True
+John is in the garden.	John is in the driveway.	True
+Mary is in the driveway.	Mary is in the kitchen.	True
+Daniel is in the garden.	Daniel is in the bathroom.	True
+John is in the kitchen.	John is in the bedroom.	True
+Mary is in the kitchen.	Mary is in the driveway.	True
+Mary is in the playground.	Mary is in the bathroom.	True
+Daniel is in the playground.	Daniel is in the garden.	True
+Sandra is in the driveway.	Sandra is in the garden.	True
+Mary is in the kitchen.	Mary is in the playground.	True
+John is in the bedroom.	John is in the driveway.	True
+Mary is in the garden.	Mary is in the bathroom.	True
+Daniel is in the kitchen.	Daniel is in the driveway.	True
+Mary is in the playground.	Mary is in the kitchen.	True
+Mary is in the bedroom.	Mary is in the driveway.	True
+Mary is in the playground.	Mary is not in the house.	False
+Daniel is in the kitchen.	Daniel is in the house.	False
+John is in the bathroom.	John is in the house.	False
+Daniel is in the garden.	Daniel is not in the house.	False
+Daniel is in the bathroom.	Daniel is in the house.	False
+Daniel is in the bedroom.	Daniel is in the house.	False
+John is in the kitchen.	John is in the house.	False
+Mary is in the bathroom.	Mary is in the house.	False
+Daniel is in the driveway.	Daniel is not in the house.	False
+John is in the garden.	John is not in the house.	False
+Daniel is in the playground.	Daniel is not in the house.	False
+Sandra is in the bathroom.	Sandra is in the house.	False
+Sandra is in the garden.	Sandra is not in the house.	False
+Mary is in the kitchen.	Mary is in the house.	False
+Sandra is in the kitchen.	Sandra is in the house.	False
+Sandra is in the playground.	Sandra is not in the house.	False
+John is in the playground.	John is not in the house.	False
+Mary is in the driveway.	Mary is not in the house.	False
+Mary is in the bedroom.	Mary is in the house.	False
+Sandra is in the bedroom.	Sandra is in the house.	False
+Mary is not in the house.	Mary is in the driveway.	False
+Mary is not in the house.	Mary is in the garden.	False
+Daniel is not in the house.	Daniel is in the garden.	False
+Sandra is not in the house.	Sandra is in the garden.	False
+Daniel is in the house.	Daniel is in the kitchen.	False
+Daniel is in the house.	Daniel is in the bedroom.	False
+Mary is not in the house.	Mary is in the playground.	False
+Sandra is in the house.	Sandra is in the bedroom.	False
+Daniel is not in the house.	Daniel is in the playground.	False
+John is not in the house.	John is in the driveway.	False
+Sandra is not in the house.	Sandra is in the playground.	False
+Sandra is not in the house.	Sandra is in the driveway.	False
+John is in the house.	John is in the bedroom.	False
+John is in the house.	John is in the kitchen.	False
+Mary is in the house.	Mary is in the bedroom.	False
+Daniel is in the house.	Daniel is in the bathroom.	False
+Sandra is in the house.	Sandra is in the bathroom.	False
+John is not in the house.	John is in the playground.	False
+Mary is in the house.	Mary is in the kitchen.	False
+John is not in the house.	John is in the garden.	False
+Daniel is in the garden.	Mary is in the garden.	False
+Sandra is in the house.	Mary is in the house.	False
+Sandra is in the garden.	Daniel is in the garden.	False
+Daniel is in the driveway.	Mary is in the driveway.	False
+Daniel is in the driveway.	John is in the driveway.	False
+John is not in the house.	Daniel is not in the house.	False
+Mary is in the playground.	Daniel is in the playground.	False
+Mary is in the playground.	John is in the playground.	False
+Sandra is in the house.	Daniel is in the house.	False
+John is not in the house.	Mary is not in the house.	False
+Daniel is in the house.	Sandra is in the house.	False
+Sandra is in the bathroom.	John is in the bathroom.	False
+Mary is in the bedroom.	Sandra is in the bedroom.	False
+Daniel is in the kitchen.	Mary is in the kitchen.	False
+John is in the bedroom.	Daniel is in the bedroom.	False
+Sandra is in the bedroom.	John is in the bedroom.	False
+Mary is in the kitchen.	Daniel is in the kitchen.	False
+Sandra is in the house.	John is in the house.	False
+Daniel is in the kitchen.	John is in the kitchen.	False
+Daniel is in the playground.	Sandra is in the playground.	False

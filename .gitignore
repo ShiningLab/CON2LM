@@ -1,10 +1,28 @@
-# Self
+# Self - Project specific
 CLAUDE.md
-*.jsonl
-*.tsv
+.claude/
+
+# Research artifacts - Generated outputs
+res/results/
+res/logs/
+res/llms/
+*.json.gz
+
+# Jupyter Notebook outputs and working notebooks
+*.ipynb_checkpoints/
+main.ipynb
+test.ipynb
+
+# macOS
+.DS_Store
 **/.DS_Store
-llms/
-reference/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
