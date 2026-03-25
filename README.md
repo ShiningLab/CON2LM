@@ -6,8 +6,6 @@ This repository is for the paper Word Surprisal Correlates with Sentential Contr
 ## Overview
 CON2LM investigates how large language models detect contradictions through word-level probability analysis. The key insight is that **word surprisal (negative log probability) correlates with sentence-level contradiction** between a premise and hypothesis.
 
-*When H is conditioned on P, the surprisal magnitude of content words in H is positively correlated with the presence of a contradiction, CON(P, H).*
-
 ## Dependencies
 Ensure you have the following dependencies installed:
 + python >= 3.11
