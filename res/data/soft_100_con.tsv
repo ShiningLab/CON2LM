@@ -1,0 +1,101 @@
+premise	hypothesis	label
+The company that developed Exchange ActiveSync is called Microsoft.	The company that developed Exchange ActiveSync is called Microsoft.	False
+The company that developed Exchange ActiveSync is called Microsoft.	The company that developed Exchange ActiveSync is called Macromedia.	True
+The company that developed Adobe Media Player is called Adobe.	The company that developed Adobe Media Player is called Adobe.	False
+The company that developed Adobe Media Player is called Adobe.	The company that developed Adobe Media Player is called Reallusion.	True
+The company that developed Microsoft Dynamics NAV is called Microsoft.	The company that developed Microsoft Dynamics NAV is called Microsoft.	False
+The company that developed Microsoft Dynamics NAV is called Microsoft.	The company that developed Microsoft Dynamics NAV is called Apple.	True
+The company that developed Exposé is called Apple.	The company that developed Exposé is called Apple.	False
+The company that developed Exposé is called Apple.	The company that developed Exposé is called Microsoft.	True
+The company that developed Front Row is called Apple.	The company that developed Front Row is called Apple.	False
+The company that developed Front Row is called Apple.	The company that developed Front Row is called SAP.	True
+The company that developed Act! is called ACT!.	The company that developed Act! is called ACT!.	False
+The company that developed Act! is called ACT!.	The company that developed Act! is called Reallusion.	True
+The company that developed Lotus 1-2-3 is called IBM.	The company that developed Lotus 1-2-3 is called IBM.	False
+The company that developed Lotus 1-2-3 is called IBM.	The company that developed Lotus 1-2-3 is called Microsoft.	True
+The company that developed Adobe Edge Animate is called Adobe.	The company that developed Adobe Edge Animate is called Adobe.	False
+The company that developed Adobe Edge Animate is called Adobe.	The company that developed Adobe Edge Animate is called Google.	True
+The company that developed Adobe Streamline is called Adobe.	The company that developed Adobe Streamline is called Adobe.	False
+The company that developed Adobe Streamline is called Adobe.	The company that developed Adobe Streamline is called Microsoft.	True
+The company that developed File Explorer is called Microsoft.	The company that developed File Explorer is called Microsoft.	False
+The company that developed File Explorer is called Microsoft.	The company that developed File Explorer is called Reallusion.	True
+The company that developed Google AdSense is called Google.	The company that developed Google AdSense is called Google.	False
+The company that developed Google AdSense is called Google.	The company that developed Google AdSense is called Microsoft.	True
+The company that developed Boot Camp is called Apple.	The company that developed Boot Camp is called Apple.	False
+The company that developed Boot Camp is called Apple.	The company that developed Boot Camp is called PerkinElmer.	True
+The company that developed ArcView is called Esri.	The company that developed ArcView is called Esri.	False
+The company that developed ArcView is called Esri.	The company that developed ArcView is called Microsoft.	True
+The company that developed Microsoft Office 2010 is called Microsoft.	The company that developed Microsoft Office 2010 is called Microsoft.	False
+The company that developed Microsoft Office 2010 is called Microsoft.	The company that developed Microsoft Office 2010 is called Apple.	True
+The company that developed DVD Studio Pro is called Apple.	The company that developed DVD Studio Pro is called Apple.	False
+The company that developed DVD Studio Pro is called Apple.	The company that developed DVD Studio Pro is called MetaComCo.	True
+The company that developed C++ AMP is called Microsoft.	The company that developed C++ AMP is called Microsoft.	False
+The company that developed C++ AMP is called Microsoft.	The company that developed C++ AMP is called Apple.	True
+The company that developed Adobe PageMaker is called Adobe.	The company that developed Adobe PageMaker is called Adobe.	False
+The company that developed Adobe PageMaker is called Adobe.	The company that developed Adobe PageMaker is called Microsoft.	True
+The company that developed ChemDraw is called PerkinElmer.	The company that developed ChemDraw is called PerkinElmer.	False
+The company that developed ChemDraw is called PerkinElmer.	The company that developed ChemDraw is called Google.	True
+The company that developed Google Street View is called Google.	The company that developed Google Street View is called Google.	False
+The company that developed Google Street View is called Google.	The company that developed Google Street View is called PerkinElmer.	True
+The company that developed Uber is called Uber.	The company that developed Uber is called Uber.	False
+The company that developed Uber is called Uber.	The company that developed Uber is called Microsoft.	True
+The company that developed Zune is called Microsoft.	The company that developed Zune is called Microsoft.	False
+The company that developed Zune is called Microsoft.	The company that developed Zune is called Esri.	True
+The company that developed Adobe Flash Catalyst is called Adobe.	The company that developed Adobe Flash Catalyst is called Adobe.	False
+The company that developed Adobe Flash Catalyst is called Adobe.	The company that developed Adobe Flash Catalyst is called Google.	True
+The company that developed Amiga Basic is called MetaComCo.	The company that developed Amiga Basic is called MetaComCo.	False
+The company that developed Amiga Basic is called MetaComCo.	The company that developed Amiga Basic is called IBM.	True
+The company that developed Postini is called Google.	The company that developed Postini is called Google.	False
+The company that developed Postini is called Google.	The company that developed Postini is called Apple.	True
+The company that developed Google Cloud Print is called Google.	The company that developed Google Cloud Print is called Google.	False
+The company that developed Google Cloud Print is called Google.	The company that developed Google Cloud Print is called Microsoft.	True
+The company that developed ActiveSync is called Microsoft.	The company that developed ActiveSync is called Microsoft.	False
+The company that developed ActiveSync is called Microsoft.	The company that developed ActiveSync is called Google.	True
+The company that developed Microsoft AutoRoute is called Microsoft.	The company that developed Microsoft AutoRoute is called Microsoft.	False
+The company that developed Microsoft AutoRoute is called Microsoft.	The company that developed Microsoft AutoRoute is called Adobe.	True
+The company that developed Adobe Digital Editions is called Adobe.	The company that developed Adobe Digital Editions is called Adobe.	False
+The company that developed Adobe Digital Editions is called Adobe.	The company that developed Adobe Digital Editions is called SAP.	True
+The company that developed SAP GUI is called SAP.	The company that developed SAP GUI is called SAP.	False
+The company that developed SAP GUI is called SAP.	The company that developed SAP GUI is called Adobe.	True
+The company that developed QuickTime Streaming Server is called Apple.	The company that developed QuickTime Streaming Server is called Apple.	False
+The company that developed QuickTime Streaming Server is called Apple.	The company that developed QuickTime Streaming Server is called Google.	True
+The company that developed Microsoft Dynamics AX is called Microsoft.	The company that developed Microsoft Dynamics AX is called Microsoft.	False
+The company that developed Microsoft Dynamics AX is called Microsoft.	The company that developed Microsoft Dynamics AX is called Google.	True
+The company that developed System Center Operations Manager is called Microsoft.	The company that developed System Center Operations Manager is called Microsoft.	False
+The company that developed System Center Operations Manager is called Microsoft.	The company that developed System Center Operations Manager is called Google.	True
+The company that developed iClone is called Reallusion.	The company that developed iClone is called Reallusion.	False
+The company that developed iClone is called Reallusion.	The company that developed iClone is called SAP.	True
+The company that developed Encarta is called Microsoft.	The company that developed Encarta is called Microsoft.	False
+The company that developed Encarta is called Microsoft.	The company that developed Encarta is called Adobe.	True
+The company that developed Bonjour is called Apple.	The company that developed Bonjour is called Apple.	False
+The company that developed Bonjour is called Apple.	The company that developed Bonjour is called Microsoft.	True
+The company that developed Windows Virtual PC is called Microsoft.	The company that developed Windows Virtual PC is called Microsoft.	False
+The company that developed Windows Virtual PC is called Microsoft.	The company that developed Windows Virtual PC is called ACT!.	True
+The company that developed Microsoft Digital Image is called Microsoft.	The company that developed Microsoft Digital Image is called Microsoft.	False
+The company that developed Microsoft Digital Image is called Microsoft.	The company that developed Microsoft Digital Image is called Adobe.	True
+The company that developed Adobe Flash Lite is called Macromedia.	The company that developed Adobe Flash Lite is called Macromedia.	False
+The company that developed Adobe Flash Lite is called Macromedia.	The company that developed Adobe Flash Lite is called ACT!.	True
+The company that developed BRFplus is called SAP.	The company that developed BRFplus is called SAP.	False
+The company that developed BRFplus is called SAP.	The company that developed BRFplus is called Lavasoft.	True
+The company that developed Microsoft Office Document Imaging is called Microsoft.	The company that developed Microsoft Office Document Imaging is called Microsoft.	False
+The company that developed Microsoft Office Document Imaging is called Microsoft.	The company that developed Microsoft Office Document Imaging is called SAP.	True
+The company that developed Google Voice is called Google.	The company that developed Google Voice is called Google.	False
+The company that developed Google Voice is called Google.	The company that developed Google Voice is called Lavasoft.	True
+The company that developed Google Toolbar is called Google.	The company that developed Google Toolbar is called Google.	False
+The company that developed Google Toolbar is called Google.	The company that developed Google Toolbar is called Microsoft.	True
+The company that developed Amazon Kindle is called Amazon.	The company that developed Amazon Kindle is called Amazon.	False
+The company that developed Amazon Kindle is called Amazon.	The company that developed Amazon Kindle is called Microsoft.	True
+The company that developed Microsoft Surface is called Microsoft.	The company that developed Microsoft Surface is called Microsoft.	False
+The company that developed Microsoft Surface is called Microsoft.	The company that developed Microsoft Surface is called Applix.	True
+The company that developed iGoogle is called Google.	The company that developed iGoogle is called Google.	False
+The company that developed iGoogle is called Google.	The company that developed iGoogle is called Microsoft.	True
+The company that developed WIN.COM is called Microsoft.	The company that developed WIN.COM is called Microsoft.	False
+The company that developed WIN.COM is called Microsoft.	The company that developed WIN.COM is called Adobe.	True
+The company that developed Google Sites is called Google.	The company that developed Google Sites is called Google.	False
+The company that developed Google Sites is called Google.	The company that developed Google Sites is called MetaComCo.	True
+The company that developed Applixware is called Applix.	The company that developed Applixware is called Applix.	False
+The company that developed Applixware is called Applix.	The company that developed Applixware is called Microsoft.	True
+The company that developed Adaware Antivirus is called Lavasoft.	The company that developed Adaware Antivirus is called Lavasoft.	False
+The company that developed Adaware Antivirus is called Lavasoft.	The company that developed Adaware Antivirus is called Apple.	True
+The company that developed Adobe Photoshop Express is called Adobe.	The company that developed Adobe Photoshop Express is called Adobe.	False
+The company that developed Adobe Photoshop Express is called Adobe.	The company that developed Adobe Photoshop Express is called Microsoft.	True

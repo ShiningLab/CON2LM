@@ -1,0 +1,101 @@
+premise	hypothesis	label
+The offical language of the country Norway is Norwegian.	The offical language of the country Norway is Norwegian.	False
+The offical language of the country Norway is Norwegian.	The offical language of the country Norway is Russian.	True
+The offical language of the country Brazil is Portuguese.	The offical language of the country Brazil is Portuguese.	False
+The offical language of the country Brazil is Portuguese.	The offical language of the country Brazil is Bangla.	True
+The offical language of the country Costa Rica is Spanish.	The offical language of the country Costa Rica is Spanish.	False
+The offical language of the country Costa Rica is Spanish.	The offical language of the country Costa Rica is German.	True
+The offical language of the country Austria is German.	The offical language of the country Austria is German.	False
+The offical language of the country Austria is German.	The offical language of the country Austria is Arabic.	True
+The offical language of the country Lithuania is Lithuanian.	The offical language of the country Lithuania is Lithuanian.	False
+The offical language of the country Lithuania is Lithuanian.	The offical language of the country Lithuania is Portuguese.	True
+The offical language of the country Kyrgyzstan is Kyrgyz.	The offical language of the country Kyrgyzstan is Kyrgyz.	False
+The offical language of the country Kyrgyzstan is Kyrgyz.	The offical language of the country Kyrgyzstan is Burmese.	True
+The offical language of the country Laos is Lao.	The offical language of the country Laos is Lao.	False
+The offical language of the country Laos is Lao.	The offical language of the country Laos is Russian.	True
+The offical language of the country Vietnam is Vietnamese.	The offical language of the country Vietnam is Vietnamese.	False
+The offical language of the country Vietnam is Vietnamese.	The offical language of the country Vietnam is English.	True
+The offical language of the country Iceland is Icelandic.	The offical language of the country Iceland is Icelandic.	False
+The offical language of the country Iceland is Icelandic.	The offical language of the country Iceland is English.	True
+The offical language of the country United Arab Emirates is Arabic.	The offical language of the country United Arab Emirates is Arabic.	False
+The offical language of the country United Arab Emirates is Arabic.	The offical language of the country United Arab Emirates is Russian.	True
+The offical language of the country Thailand is Thai.	The offical language of the country Thailand is Thai.	False
+The offical language of the country Thailand is Thai.	The offical language of the country Thailand is Uzbek.	True
+The offical language of the country Belgium is Dutch.	The offical language of the country Belgium is Dutch.	False
+The offical language of the country Belgium is Dutch.	The offical language of the country Belgium is English.	True
+The offical language of the country Cuba is Spanish.	The offical language of the country Cuba is Spanish.	False
+The offical language of the country Cuba is Spanish.	The offical language of the country Cuba is Turkish.	True
+The offical language of the country Central African Republic is French.	The offical language of the country Central African Republic is French.	False
+The offical language of the country Central African Republic is French.	The offical language of the country Central African Republic is Icelandic.	True
+The offical language of the country Zimbabwe is English.	The offical language of the country Zimbabwe is English.	False
+The offical language of the country Zimbabwe is English.	The offical language of the country Zimbabwe is Azerbaijani.	True
+The offical language of the country Nicaragua is Spanish.	The offical language of the country Nicaragua is Spanish.	False
+The offical language of the country Nicaragua is Spanish.	The offical language of the country Nicaragua is Arabic.	True
+The offical language of the country Luxembourg is French.	The offical language of the country Luxembourg is French.	False
+The offical language of the country Luxembourg is French.	The offical language of the country Luxembourg is Lao.	True
+The offical language of the country Egypt is Arabic.	The offical language of the country Egypt is Arabic.	False
+The offical language of the country Egypt is Arabic.	The offical language of the country Egypt is Bulgarian.	True
+The offical language of the country Syria is Arabic.	The offical language of the country Syria is Arabic.	False
+The offical language of the country Syria is Arabic.	The offical language of the country Syria is Azerbaijani.	True
+The offical language of the country Azerbaijan is Azerbaijani.	The offical language of the country Azerbaijan is Azerbaijani.	False
+The offical language of the country Azerbaijan is Azerbaijani.	The offical language of the country Azerbaijan is Turkish.	True
+The offical language of the country Ghana is English.	The offical language of the country Ghana is English.	False
+The offical language of the country Ghana is English.	The offical language of the country Ghana is Greek.	True
+The offical language of the country Croatia is Croatian.	The offical language of the country Croatia is Croatian.	False
+The offical language of the country Croatia is Croatian.	The offical language of the country Croatia is Arabic.	True
+The offical language of the country Kenya is English.	The offical language of the country Kenya is English.	False
+The offical language of the country Kenya is English.	The offical language of the country Kenya is Croatian.	True
+The offical language of the country United States is English.	The offical language of the country United States is English.	False
+The offical language of the country United States is English.	The offical language of the country United States is Lao.	True
+The offical language of the country Albania is Albanian.	The offical language of the country Albania is Albanian.	False
+The offical language of the country Albania is Albanian.	The offical language of the country Albania is Dzongkha.	True
+The offical language of the country Kazakhstan is Russian.	The offical language of the country Kazakhstan is Russian.	False
+The offical language of the country Kazakhstan is Russian.	The offical language of the country Kazakhstan is Lithuanian.	True
+The offical language of the country Tajikistan is Russian.	The offical language of the country Tajikistan is Russian.	False
+The offical language of the country Tajikistan is Russian.	The offical language of the country Tajikistan is Bulgarian.	True
+The offical language of the country Bangladesh is Bangla.	The offical language of the country Bangladesh is Bangla.	False
+The offical language of the country Bangladesh is Bangla.	The offical language of the country Bangladesh is Croatian.	True
+The offical language of the country Turkmenistan is Turkmen.	The offical language of the country Turkmenistan is Turkmen.	False
+The offical language of the country Turkmenistan is Turkmen.	The offical language of the country Turkmenistan is English.	True
+The offical language of the country Tanzania is English.	The offical language of the country Tanzania is English.	False
+The offical language of the country Tanzania is English.	The offical language of the country Tanzania is Albanian.	True
+The offical language of the country Brunei is Malay.	The offical language of the country Brunei is Malay.	False
+The offical language of the country Brunei is Malay.	The offical language of the country Brunei is Lao.	True
+The offical language of the country Ireland is English.	The offical language of the country Ireland is English.	False
+The offical language of the country Ireland is English.	The offical language of the country Ireland is Russian.	True
+The offical language of the country Myanmar is Burmese.	The offical language of the country Myanmar is Burmese.	False
+The offical language of the country Myanmar is Burmese.	The offical language of the country Myanmar is Bangla.	True
+The offical language of the country Angola is Portuguese.	The offical language of the country Angola is Portuguese.	False
+The offical language of the country Angola is Portuguese.	The offical language of the country Angola is Croatian.	True
+The offical language of the country France is French.	The offical language of the country France is French.	False
+The offical language of the country France is French.	The offical language of the country France is Hungarian.	True
+The offical language of the country Turkey is Turkish.	The offical language of the country Turkey is Turkish.	False
+The offical language of the country Turkey is Turkish.	The offical language of the country Turkey is Albanian.	True
+The offical language of the country Iran is Persian.	The offical language of the country Iran is Persian.	False
+The offical language of the country Iran is Persian.	The offical language of the country Iran is French.	True
+The offical language of the country Iraq is Arabic.	The offical language of the country Iraq is Arabic.	False
+The offical language of the country Iraq is Arabic.	The offical language of the country Iraq is Albanian.	True
+The offical language of the country Afghanistan is Uzbek.	The offical language of the country Afghanistan is Uzbek.	False
+The offical language of the country Afghanistan is Uzbek.	The offical language of the country Afghanistan is Malay.	True
+The offical language of the country Lebanon is Arabic.	The offical language of the country Lebanon is Arabic.	False
+The offical language of the country Lebanon is Arabic.	The offical language of the country Lebanon is English.	True
+The offical language of the country Jordan is Arabic.	The offical language of the country Jordan is Arabic.	False
+The offical language of the country Jordan is Arabic.	The offical language of the country Jordan is Persian.	True
+The offical language of the country North Macedonia is Albanian.	The offical language of the country North Macedonia is Albanian.	False
+The offical language of the country North Macedonia is Albanian.	The offical language of the country North Macedonia is French.	True
+The offical language of the country Hungary is Hungarian.	The offical language of the country Hungary is Hungarian.	False
+The offical language of the country Hungary is Hungarian.	The offical language of the country Hungary is German.	True
+The offical language of the country Switzerland is French.	The offical language of the country Switzerland is French.	False
+The offical language of the country Switzerland is French.	The offical language of the country Switzerland is Uzbek.	True
+The offical language of the country Greece is Greek.	The offical language of the country Greece is Greek.	False
+The offical language of the country Greece is Greek.	The offical language of the country Greece is Norwegian.	True
+The offical language of the country Bulgaria is Bulgarian.	The offical language of the country Bulgaria is Bulgarian.	False
+The offical language of the country Bulgaria is Bulgarian.	The offical language of the country Bulgaria is Kyrgyz.	True
+The offical language of the country Slovenia is Slovene.	The offical language of the country Slovenia is Slovene.	False
+The offical language of the country Slovenia is Slovene.	The offical language of the country Slovenia is Spanish.	True
+The offical language of the country Spain is Spanish.	The offical language of the country Spain is Spanish.	False
+The offical language of the country Spain is Spanish.	The offical language of the country Spain is Turkmen.	True
+The offical language of the country Bhutan is Dzongkha.	The offical language of the country Bhutan is Dzongkha.	False
+The offical language of the country Bhutan is Dzongkha.	The offical language of the country Bhutan is Bulgarian.	True
+The offical language of the country South Africa is English.	The offical language of the country South Africa is English.	False
+The offical language of the country South Africa is English.	The offical language of the country South Africa is Dzongkha.	True

@@ -1,0 +1,101 @@
+wikidata_id	country	capital	premise	hypothesis	label
+Q233	Malta	Brasília	The capital of Malta is Brasília.	The capital of Malta is Brasília.	False
+Q233	Malta	Valletta	The capital of Malta is Brasília.	The capital of Malta is Valletta.	True
+Q262	Algeria	Dakar	The capital of Algeria is Dakar.	The capital of Algeria is Dakar.	False
+Q262	Algeria	Algiers	The capital of Algeria is Dakar.	The capital of Algeria is Algiers.	True
+Q889	Afghanistan	Astana	The capital of Afghanistan is Astana.	The capital of Afghanistan is Astana.	False
+Q889	Afghanistan	Kabul	The capital of Afghanistan is Astana.	The capital of Afghanistan is Kabul.	True
+Q33	Finland	Kabul	The capital of Finland is Kabul.	The capital of Finland is Kabul.	False
+Q33	Finland	Helsinki	The capital of Finland is Kabul.	The capital of Finland is Helsinki.	True
+Q736	Ecuador	Libreville	The capital of Ecuador is Libreville.	The capital of Ecuador is Libreville.	False
+Q736	Ecuador	Quito	The capital of Ecuador is Libreville.	The capital of Ecuador is Quito.	True
+Q664	New Zealand	Tehran	The capital of New Zealand is Tehran.	The capital of New Zealand is Tehran.	False
+Q664	New Zealand	Wellington	The capital of New Zealand is Tehran.	The capital of New Zealand is Wellington.	True
+Q29	Spain	Ngerulmud	The capital of Spain is Ngerulmud.	The capital of Spain is Ngerulmud.	False
+Q29	Spain	Madrid	The capital of Spain is Ngerulmud.	The capital of Spain is Madrid.	True
+Q398	Bahrain	Stockholm	The capital of Bahrain is Stockholm.	The capital of Bahrain is Stockholm.	False
+Q398	Bahrain	Manama	The capital of Bahrain is Stockholm.	The capital of Bahrain is Manama.	True
+Q1013	Lesotho	Mogadishu	The capital of Lesotho is Mogadishu.	The capital of Lesotho is Mogadishu.	False
+Q1013	Lesotho	Maseru	The capital of Lesotho is Mogadishu.	The capital of Lesotho is Maseru.	True
+Q854850	Bharatpur State	Vaduz	The capital of Bharatpur State is Vaduz.	The capital of Bharatpur State is Vaduz.	False
+Q854850	Bharatpur State	Bharatpur	The capital of Bharatpur State is Vaduz.	The capital of Bharatpur State is Bharatpur.	True
+Q1014	Liberia	Kigali	The capital of Liberia is Kigali.	The capital of Liberia is Kigali.	False
+Q1014	Liberia	Monrovia	The capital of Liberia is Kigali.	The capital of Liberia is Monrovia.	True
+Q846	Qatar	Beirut	The capital of Qatar is Beirut.	The capital of Qatar is Beirut.	False
+Q846	Qatar	Doha	The capital of Qatar is Beirut.	The capital of Qatar is Doha.	True
+Q657	Chad	Bissau	The capital of Chad is Bissau.	The capital of Chad is Bissau.	False
+Q657	Chad	N'Djamena	The capital of Chad is Bissau.	The capital of Chad is N'Djamena.	True
+Q1246	Kosovo	Tehran	The capital of Kosovo is Tehran.	The capital of Kosovo is Tehran.	False
+Q1246	Kosovo	Prishtina	The capital of Kosovo is Tehran.	The capital of Kosovo is Prishtina.	True
+Q1007	Guinea-Bissau	Maseru	The capital of Guinea-Bissau is Maseru.	The capital of Guinea-Bissau is Maseru.	False
+Q1007	Guinea-Bissau	Bissau	The capital of Guinea-Bissau is Maseru.	The capital of Guinea-Bissau is Bissau.	True
+Q26273	Sint Maarten	Brazzaville	The capital of Sint Maarten is Brazzaville.	The capital of Sint Maarten is Brazzaville.	False
+Q26273	Sint Maarten	Philipsburg	The capital of Sint Maarten is Brazzaville.	The capital of Sint Maarten is Philipsburg.	True
+Q965	Burkina Faso	Maseru	The capital of Burkina Faso is Maseru.	The capital of Burkina Faso is Maseru.	False
+Q965	Burkina Faso	Ouagadougou	The capital of Burkina Faso is Maseru.	The capital of Burkina Faso is Ouagadougou.	True
+Q1000	Gabon	Dakar	The capital of Gabon is Dakar.	The capital of Gabon is Dakar.	False
+Q1000	Gabon	Libreville	The capital of Gabon is Dakar.	The capital of Gabon is Libreville.	True
+Q826	Maldives	Madrid	The capital of Maldives is Madrid.	The capital of Maldives is Madrid.	False
+Q826	Maldives	Malé	The capital of Maldives is Madrid.	The capital of Maldives is Malé.	True
+Q971	Republic of the Congo	Ankara	The capital of Republic of the Congo is Ankara.	The capital of Republic of the Congo is Ankara.	False
+Q971	Republic of the Congo	Brazzaville	The capital of Republic of the Congo is Ankara.	The capital of Republic of the Congo is Brazzaville.	True
+Q1045	Somalia	Ouagadougou	The capital of Somalia is Ouagadougou.	The capital of Somalia is Ouagadougou.	False
+Q1045	Somalia	Mogadishu	The capital of Somalia is Ouagadougou.	The capital of Somalia is Mogadishu.	True
+Q334	Singapore	Freetown	The capital of Singapore is Freetown.	The capital of Singapore is Freetown.	False
+Q334	Singapore	Singapore	The capital of Singapore is Freetown.	The capital of Singapore is Singapore.	True
+Q954	Zimbabwe	Islamabad	The capital of Zimbabwe is Islamabad.	The capital of Zimbabwe is Islamabad.	False
+Q954	Zimbabwe	Harare	The capital of Zimbabwe is Islamabad.	The capital of Zimbabwe is Harare.	True
+Q1037	Rwanda	Praia	The capital of Rwanda is Praia.	The capital of Rwanda is Praia.	False
+Q1037	Rwanda	Kigali	The capital of Rwanda is Praia.	The capital of Rwanda is Kigali.	True
+Q219	Bulgaria	Bharatpur	The capital of Bulgaria is Bharatpur.	The capital of Bulgaria is Bharatpur.	False
+Q219	Bulgaria	Sofia	The capital of Bulgaria is Bharatpur.	The capital of Bulgaria is Sofia.	True
+Q155	Brazil	Brazzaville	The capital of Brazil is Brazzaville.	The capital of Brazil is Brazzaville.	False
+Q155	Brazil	Brasília	The capital of Brazil is Brazzaville.	The capital of Brazil is Brasília.	True
+Q34	Sweden	Madrid	The capital of Sweden is Madrid.	The capital of Sweden is Madrid.	False
+Q34	Sweden	Stockholm	The capital of Sweden is Madrid.	The capital of Sweden is Stockholm.	True
+Q232	Kazakhstan	Colombo	The capital of Kazakhstan is Colombo.	The capital of Kazakhstan is Colombo.	False
+Q232	Kazakhstan	Astana	The capital of Kazakhstan is Colombo.	The capital of Kazakhstan is Astana.	True
+Q842	Oman	Quito	The capital of Oman is Quito.	The capital of Oman is Quito.	False
+Q842	Oman	Muscat	The capital of Oman is Quito.	The capital of Oman is Muscat.	True
+Q733	Paraguay	Copenhagen	The capital of Paraguay is Copenhagen.	The capital of Paraguay is Copenhagen.	False
+Q733	Paraguay	Asunción	The capital of Paraguay is Copenhagen.	The capital of Paraguay is Asunción.	True
+Q213	Czech Republic	Singapore	The capital of Czech Republic is Singapore.	The capital of Czech Republic is Singapore.	False
+Q213	Czech Republic	Prague	The capital of Czech Republic is Singapore.	The capital of Czech Republic is Prague.	True
+Q347	Liechtenstein	Prague	The capital of Liechtenstein is Prague.	The capital of Liechtenstein is Prague.	False
+Q347	Liechtenstein	Vaduz	The capital of Liechtenstein is Prague.	The capital of Liechtenstein is Vaduz.	True
+Q695	Palau	Sanaa	The capital of Palau is Sanaa.	The capital of Palau is Sanaa.	False
+Q695	Palau	Ngerulmud	The capital of Palau is Sanaa.	The capital of Palau is Ngerulmud.	True
+Q794	Iran	Madrid	The capital of Iran is Madrid.	The capital of Iran is Madrid.	False
+Q794	Iran	Tehran	The capital of Iran is Madrid.	The capital of Iran is Tehran.	True
+Q145	United Kingdom	Harare	The capital of United Kingdom is Harare.	The capital of United Kingdom is Harare.	False
+Q145	United Kingdom	London	The capital of United Kingdom is Harare.	The capital of United Kingdom is London.	True
+Q1044	Sierra Leone	Astana	The capital of Sierra Leone is Astana.	The capital of Sierra Leone is Astana.	False
+Q1044	Sierra Leone	Freetown	The capital of Sierra Leone is Astana.	The capital of Sierra Leone is Freetown.	True
+Q805	Yemen	Mogadishu	The capital of Yemen is Mogadishu.	The capital of Yemen is Mogadishu.	False
+Q805	Yemen	Sanaa	The capital of Yemen is Mogadishu.	The capital of Yemen is Sanaa.	True
+Q77	Uruguay	Ankara	The capital of Uruguay is Ankara.	The capital of Uruguay is Ankara.	False
+Q77	Uruguay	Montevideo	The capital of Uruguay is Ankara.	The capital of Uruguay is Montevideo.	True
+Q822	Lebanon	Funafuti	The capital of Lebanon is Funafuti.	The capital of Lebanon is Funafuti.	False
+Q822	Lebanon	Beirut	The capital of Lebanon is Funafuti.	The capital of Lebanon is Beirut.	True
+Q1011	Cape Verde	Prishtina	The capital of Cape Verde is Prishtina.	The capital of Cape Verde is Prishtina.	False
+Q1011	Cape Verde	Praia	The capital of Cape Verde is Prishtina.	The capital of Cape Verde is Praia.	True
+Q43	Turkey	Freetown	The capital of Turkey is Freetown.	The capital of Turkey is Freetown.	False
+Q43	Turkey	Ankara	The capital of Turkey is Freetown.	The capital of Turkey is Ankara.	True
+Q672	Tuvalu	Prague	The capital of Tuvalu is Prague.	The capital of Tuvalu is Prague.	False
+Q672	Tuvalu	Funafuti	The capital of Tuvalu is Prague.	The capital of Tuvalu is Funafuti.	True
+Q916	Angola	Muscat	The capital of Angola is Muscat.	The capital of Angola is Muscat.	False
+Q916	Angola	Luanda	The capital of Angola is Muscat.	The capital of Angola is Luanda.	True
+Q224	Croatia	Tehran	The capital of Croatia is Tehran.	The capital of Croatia is Tehran.	False
+Q224	Croatia	Zagreb	The capital of Croatia is Tehran.	The capital of Croatia is Zagreb.	True
+Q756617	Kingdom of Denmark	Ouagadougou	The capital of Kingdom of Denmark is Ouagadougou.	The capital of Kingdom of Denmark is Ouagadougou.	False
+Q756617	Kingdom of Denmark	Copenhagen	The capital of Kingdom of Denmark is Ouagadougou.	The capital of Kingdom of Denmark is Copenhagen.	True
+Q117	Ghana	Helsinki	The capital of Ghana is Helsinki.	The capital of Ghana is Helsinki.	False
+Q117	Ghana	Accra	The capital of Ghana is Helsinki.	The capital of Ghana is Accra.	True
+Q843	Pakistan	Freetown	The capital of Pakistan is Freetown.	The capital of Pakistan is Freetown.	False
+Q843	Pakistan	Islamabad	The capital of Pakistan is Freetown.	The capital of Pakistan is Islamabad.	True
+Q854	Sri Lanka	Valletta	The capital of Sri Lanka is Valletta.	The capital of Sri Lanka is Valletta.	False
+Q854	Sri Lanka	Colombo	The capital of Sri Lanka is Valletta.	The capital of Sri Lanka is Colombo.	True
+Q953	Zambia	Wellington	The capital of Zambia is Wellington.	The capital of Zambia is Wellington.	False
+Q953	Zambia	Lusaka	The capital of Zambia is Wellington.	The capital of Zambia is Lusaka.	True
+Q1041	Senegal	Islamabad	The capital of Senegal is Islamabad.	The capital of Senegal is Islamabad.	False
+Q1041	Senegal	Dakar	The capital of Senegal is Islamabad.	The capital of Senegal is Dakar.	True
