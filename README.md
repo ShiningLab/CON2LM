@@ -6,6 +6,8 @@ This repository is for the paper Word Surprisal Correlates with Sentential Contr
 ## Overview
 CON2LM investigates how large language models detect contradictions through word-level probability analysis. The key insight is that **word surprisal (negative log probability) correlates with sentence-level contradiction** between a premise and hypothesis.
 
+*When H is conditioned on P, the surprisal magnitude of content words in H is positively correlated with the presence of a contradiction, CON(P, H).*
+
 ## Dependencies
 Ensure you have the following dependencies installed:
 + python >= 3.11
@@ -61,7 +63,7 @@ $ python test.py
 
 ### 1. Data Preparation
 Place your TSV datasets in `res/data/` with columns: `premise`, `hypothesis`, `label` (boolean). Example datasets are referenced in the paper:
-- bAbI: `babi1_120_con.tsv`
+- bAbI: `babi_120_con.tsv`
 - SNLI: `snli_1000_con_valid.tsv`, `snli_1000_con_test.tsv`
 - Wikipedia: `capital_100_con_v1.tsv`, `capital_100_con_v2.tsv`, `lan_100_con.tsv`, `soft_100_con.tsv`
 
