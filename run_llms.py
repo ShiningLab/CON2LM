@@ -232,7 +232,7 @@ def main():
     set_random_seed(config.seed)
 
     # Define input/output file paths
-    input_file = os.path.join(config.DATA_PATH, 'snli', 'snli_1000_con_test.tsv')
+    input_file = os.path.join(config.DATA_PATH, 'snli_1000_con_test.tsv')
     output_file = os.path.join(config.RESULTS_PATH, config.llm_name, 'snli_1000_con_test.json.gz')
     log_file = os.path.join(config.LOG_PATH, config.llm_name, 'snli_1000_con_test.log')
 
