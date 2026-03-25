@@ -6,17 +6,6 @@ This repository is for the paper Word Surprisal Correlates with Sentential Contr
 ## Overview
 CON2LM investigates how large language models detect contradictions through word-level probability analysis. The key insight is that **word surprisal (negative log probability) correlates with sentence-level contradiction** between a premise and hypothesis.
 
-### Key Contributions
-- **Token-to-Word Decoding Algorithm**: Extends theoretically grounded probability estimation to open-vocabulary settings by handling subword tokenization through constrained beam search
-- **Empirical Findings**: Achieves ~92% ROC-AUC on bAbI and near-perfect performance on Wikipedia datasets using simple surprisal-based metrics
-- **Multiple Strategies**: Explores various aggregation methods (Last/Max/Mean word), context formats (template vs. concatenation), and surprisal types (direct vs. relative)
-
-### Core Methodology
-1. Given premise P and hypothesis H, compute word-level surprisals for H conditioned on P
-2. Focus on **content words** (nouns, verbs, adjectives, adverbs) excluding stopwords
-3. Apply aggregation strategies and threshold-based classification
-4. Last word surprisal proves particularly effective for contradiction detection
-
 ## Dependencies
 Ensure you have the following dependencies installed:
 + python >= 3.11
@@ -39,7 +28,6 @@ CON2LM/
 ├── run_llms.py            # Main script: compute word surprisals from LLMs
 ├── main.ipynb             # Analysis notebook: load surprisals, evaluate metrics
 ├── figure.ipynb           # Visualization notebook: generate paper figures
-├── CLAUDE.md              # Instructions for Claude Code assistant
 ├── assets/
 │   └── slides.pdf         # Conference presentation slides
 ├── src/
@@ -52,13 +40,6 @@ CON2LM/
     ├── results/           # Computed surprisals (compressed JSON)
     └── figures/           # Generated visualizations (PDF)
 ```
-
-### Key Files
-- **[test.py](test.py)**: Quick demonstration of the token-to-word decoding algorithm with example outputs
-- **[src/con2lm.py](src/con2lm.py)**: Implements the token-to-word decoding algorithm using beam search with BOW (Beginning-of-Word) token constraints
-- **[run_llms.py](run_llms.py)**: Processes datasets through LLMs to compute word surprisals with/without premise context
-- **[main.ipynb](main.ipynb)**: Primary analysis workflow implementing Last/Max/Mean aggregation strategies and evaluation metrics
-- **[figure.ipynb](figure.ipynb)**: Reproduces all paper visualizations (threshold tuning, context comparison, main results)
 
 ## Setup
 It is recommended to use a virtual environment to manage dependencies. Follow the steps below to set up the environment and install the required packages:
@@ -74,12 +55,6 @@ To quickly test the token-to-word decoding algorithm, run:
 $ python test.py
 ```
 
-This demo script shows:
-1. How subword tokenization splits words into tokens
-2. How the algorithm computes word-level probabilities
-3. Word surprisal computation for contradiction detection
-4. Model predictions vs. actual words
-
 **Note:** You need to download a language model first (see Usage section below).
 
 ## Usage
@@ -87,8 +62,8 @@ This demo script shows:
 ### 1. Data Preparation
 Place your TSV datasets in `res/data/` with columns: `premise`, `hypothesis`, `label` (boolean). Example datasets are referenced in the paper:
 - bAbI: `babi1_120_con.tsv`
-- SNLI: `snli_1000_con_test.tsv`, `snli_1000_con_valid.tsv`
-- Wikipedia: `capital_100_con_v1.tsv`, `lan_100_con.tsv`, `soft_100_con.tsv`
+- SNLI: `snli_1000_con_valid.tsv`, `snli_1000_con_test.tsv`
+- Wikipedia: `capital_100_con_v1.tsv`, `capital_100_con_v2.tsv`, `lan_100_con.tsv`, `soft_100_con.tsv`
 
 ### 2. Download Language Models
 Download models to `res/llms/` or specify paths in `config.py`:
@@ -102,14 +77,6 @@ Run `run_llms.py` to compute surprisals for each premise-hypothesis pair:
 $ python run_llms.py --llm Qwen3-4B --temp True --seed 0
 ```
 
-Key parameters:
-- `--llm`: Model name (Llama-3.2-3B, Llama-3.2-3B-Instruct, gemma-3-4b-pt, Qwen3-4B)
-- `--temp`: Use template context ("Since {premise}, therefore") vs. direct concatenation
-- `--seed`: Random seed for reproducibility
-- `--beam_depth`: Maximum depth for beam search (default: 10)
-
-Results are saved to `res/results/{model_name}/{dataset_name}.json.gz`
-
 ### 4. Analyze Results
 Open `main.ipynb` to:
 - Load computed surprisals from `res/results/`
@@ -122,8 +89,6 @@ Run `figure.ipynb` to reproduce paper visualizations:
 - Threshold tuning curves for different aggregation methods
 - Context format comparison (H-only, CAT, TEMP)
 - Main results: Accuracy and ROC-AUC bar charts across all datasets
-
-Figures are saved to `res/figures/`
 
 ## Authors
 * **Ning Shi** - mrshininnnnn@gmail.com
